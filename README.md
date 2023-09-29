@@ -82,8 +82,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/C43RL7t)' title='gif walkthrough' width='' alt='gif Walkthrough' />
-
+[gif walkthrough from imgur](https://imgur.com/a/C43RL7t)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  lice cap
 <!-- Recommended tools:
