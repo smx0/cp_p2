@@ -1,8 +1,8 @@
-# WEB103 Project 1 - *Name of App Here*
+# WEB103 Project 1 - *listicle*
 
-Submitted by: **smx0*
+Submitted by: **smx0**
 
-About this web app: **for codepath**
+About this web app: **project for codepath**
 
 Time spent: **X** hours
 
